@@ -32,7 +32,6 @@ npm start
 ### 2. Main Microservice Setup
 Open a second terminal for the main app:
 ```bash
-cd /d/Wizdaa
 npm install
 npm run start:dev
 ```
